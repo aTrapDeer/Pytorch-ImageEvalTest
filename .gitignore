@@ -1,0 +1,9 @@
+# Folders
+/myenv/
+
+#Files
+dataset/eval/class1/*
+dataset/train/class1/*
+
+dataset/eval/class2/*
+dataset/train/class2/*
